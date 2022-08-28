@@ -1,4 +1,6 @@
 # putmobilewalletandroid
-Android APK for PUTinCoin Mobile Wallet
+Android APKs for PUTinCoin Mobile Wallet
 
-COMING SOON !!
+Pls download:
+putincoinwallet.apk -> for Android <10
+putincoinmultiwallet.apk -> for Android 10+
